@@ -3,6 +3,7 @@
 **First we used our git skills to create and clone repositories.**
 
 *Yayyyyy Cats!!!*
+*Cats are awesome!*
 
 `git add`
 `git commit -m "Awesome Commit"`
